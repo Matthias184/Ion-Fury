@@ -1,0 +1,10 @@
+grpinfo
+{
+    name "Ion Fury: Aftershock"
+    scriptname "scripts/main.con"
+    defname "ashock.def"
+    size 160826590
+    crc 0xE175FB41
+    flags 1664
+    dependency 0
+}

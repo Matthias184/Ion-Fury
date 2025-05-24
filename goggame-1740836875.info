@@ -1,0 +1,30 @@
+{
+    "buildId": "56984841835007535",
+    "clientId": "51965372910714499",
+    "gameId": "1740836875",
+    "language": "English",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Ion Fury",
+    "osBitness": [
+        "64"
+    ],
+    "playTasks": [
+        {
+            "category": "game",
+            "isPrimary": true,
+            "languages": [
+                "en-US"
+            ],
+            "name": "Ion Fury",
+            "osBitness": [
+                "64"
+            ],
+            "path": "fury.exe",
+            "type": "FileTask"
+        }
+    ],
+    "rootGameId": "1740836875",
+    "version": 1
+}
